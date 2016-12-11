@@ -16,7 +16,7 @@ first cell of the notebook.
 
 NBVIEWER LINK
 _________________
-http://nbviewer.jupyter.org/github/Voskuil/Project/blob/master/Project.ipynb
+http://nbviewer.jupyter.org/github/Voskuil/CrimeWeather/blob/master/Project.ipynb
 #################
 
 SOURCES
